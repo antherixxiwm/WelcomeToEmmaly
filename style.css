@@ -1,9 +1,9 @@
 body {
   background-color: #dcd4ca;
-  background-image:url(elements/emmaly-frame.png), url(background-2.png);
-  background-size:contain, cover;
-  background-attachment:fixed, fixed;
-  background-position:top, center;
+  background-image:url(background-1.png);
+  background-size:contain;
+  background-attachment:fixed;
+  background-position:top;
   background-repeat:no-repeat, no-repeat;
   display: flex;
   flex-direction: column;
@@ -186,7 +186,7 @@ p {
 }
 
 .answer-options-button {
-  /*font-size: 14px;*/
+  font-size: 14px;
   border-radius:5px;
   border-color:#6f5524;
   color:#6f5524;
