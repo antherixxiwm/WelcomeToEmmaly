@@ -1,10 +1,10 @@
 body {
   background-color: #dcd4ca;
-  background-image:url(background-1.png);
-  background-size:contain;
+  background-image:url(background-2.png);
+  background-size:cover;
   background-attachment:fixed;
-  background-position:top;
-  background-repeat:no-repeat, no-repeat;
+  background-position:center;
+  background-repeat:no-repeat;
   display: flex;
   flex-direction: column;
   justify-content: center;
