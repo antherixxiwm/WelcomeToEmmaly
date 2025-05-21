@@ -1,0 +1,298 @@
+body {
+  background-color: #dcd4ca;
+  background-image:url(elements/emmaly-frame.png), url(background-2.png);
+  background-size:contain, cover;
+  background-attachment:fixed, fixed;
+  background-position:top, center;
+  background-repeat:no-repeat, no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quiz-container {
+  text-align:center;
+  align-items: center;
+  justify-content: center;
+}
+
+.start-page {
+  /*background-image:url(elements/emmaly-frame.png);
+  background-size:contain;
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-position:top;*/
+  width: 95vw;
+  max-width: calc(95vh * (9 / 19.5));
+  text-align: center;
+}
+  
+
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%); 
+  transform: translateY(-50%);
+}
+
+.barlow-regular {
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.barlow-medium {
+  font-family: "Barlow", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.barlow-semibold {
+  font-family: "Barlow", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.barlow-bold {
+    font-family: "Barlow", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.barlow-extrabold {
+  font-family: "Barlow", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.barlow-regular-italic {
+  font-family: "Barlow", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.barlow-medium-italic {
+  font-family: "Barlow", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.barlow-semibold-italic {
+  font-family: "Barlow", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.barlow-bold-italic {
+  font-family: "Barlow", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.barlow-extrabold-italic {
+  font-family: "Barlow", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.rye-regular {
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-size:24px;  
+  color: #6f5524;
+}
+
+h2 {
+  font-size:18px;  
+  color: #6f5524;
+}
+
+h3 {
+  font-size:16px;  
+  color: #6f5524;
+}
+
+a {
+  text-decoration:none;
+  color:#6f5524;
+}
+
+a:hover {
+  color:goldenrod;
+}
+
+.language-button {
+  text-decoration: none;
+  font-size: 16px;
+  color: #dcd4ca;
+  background-color:#6f5524;
+  background-blend-mode: multiply;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor:pointer;
+}
+
+.language-button:hover {
+  color:white;
+  background-color: goldenrod;
+}
+
+p {
+  font-size:14px;
+  color:#6f5524;
+}
+
+
+.btn {
+  margin-top: 5px;
+  color:black;
+  background-color:#dcd4ca;
+  border:1.5px solid black;
+  padding: 5px 10px;
+  cursor:pointer;
+}
+
+.start-quiz {
+  font-size: 18px;
+  border-color:#6f5524;
+  color:#6f5524;
+}
+
+.start-quiz:hover {
+  background-color:#6f5524;
+  color:white;
+}
+
+.credit-footnote {
+  font-size:13px;
+  color:#6f5524;
+}
+
+
+#image-container {
+  text-align:center;
+}
+
+#emmaly-house-result {
+  opacity: 0%;
+}
+
+.answer-options-button {
+  /*font-size: 14px;*/
+  border-radius:5px;
+  border-color:#6f5524;
+  color:#6f5524;
+  margin-top:5px;
+  display: block;
+  text-align:center;
+  align-items: center;
+  width:100%;
+}
+
+.answer-options-button:focus {
+  background-color:#6f5524;
+  color:white;
+}
+
+.answer-options-button:hover {
+  background-color:#6f5524;
+  color:white;
+}
+
+
+  
+#quiz {
+  width: 90vw;
+  max-width: calc(90vh * (9 / 19.5));
+  align-items: center;
+}
+
+#results-container {
+  width: 95vw;
+  max-width: calc(95vh * (9 / 19.5));
+  align-items: center;
+}
+
+.learn-more {
+  font-size: 16px;
+  border-color:#6f5524;
+  color:#6f5524;
+}
+
+.learn-more:hover {
+  background-color:#6f5524;
+  color:white;
+}
+
+#next-button {
+  font-size: 16px;
+  color:#6f5524;
+  background-color:#dcd4ca;
+  border-color:#dcd4ca;
+  cursor:pointer;
+}
+
+#next-button:hover {
+  text-decoration: underline;
+}
+
+.opacity-50 {
+  opacity: 20%;
+}
+
+.restart-button {
+  font-size: 16px;
+  border-color:#6f5524;
+  color:#6f5524;
+}
+
+.restart-button:hover {
+  background-color:#6f5524;
+  color:white;
+}
+
+#disclaimer {
+  text-align:center;
+  align-items: center;
+  justify-content: center;
+  background-blend-mode: multiply;
+}
+
+#disclaimer-text {
+  font-size: 13px;
+  color: #6f5524;
+} 
+
+#welcome-to-emmaly {
+  /*background-image: url(elements/Announcement-frame.png);
+  background-size: cover;
+  background-repeat: no-repeat;*/
+  text-align:center;
+  align-items: center;
+  justify-content: center;
+}
+
+.emmaly-announcement-frame {
+  position:absolute;
+  top:60px;
+  text-align:center;
+  align-items: center;
+  justify-content: center;
+} 
+
+#start-start-page {
+  position: absolute;
+  top: 190px;
+  text-align:center;
+  align-items: center;
+  justify-content: center;
+}
+
