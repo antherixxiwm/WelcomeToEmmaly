@@ -3,11 +3,11 @@
                 question: "Kamu tersesat di hutan tanpa peralatan apa pun. Bagaimana caramu mencari jalan keluar?",
                 image: "question image/1.png",
                 options: [
-                    { text: "Maju saja—nanti juga sampai!", 
+                    { text: "Jalan maju saja terus—nanti juga sampai!", 
                         value: "Assavadevathin"},
                     { text: "Cari sungai dan ikuti arah arusnya", 
                         value: "Davichmetha" },
-                    { text: "Mengikuti panduan bintang, bulan, dan matahari", 
+                    { text: "Melihat arah dari matahari, bintang, dan bulan", 
                         value: "Meenanagarin" },
                     { text: "Memeriksa tanaman di sekelilingku dan menentukan arah dengan bantuan lumut", 
                         value: "Bhuchongpisut" },
@@ -23,7 +23,7 @@
                         value: "Davichmetha" },
                     { text: "Seekor unicorn", 
                         value: "Assavadevathin" },
-                    { text: "Sebuah teleskop", 
+                    { text: "Sebuah teropong", 
                         value: "Meenanagarin" },
                 ]
             },
@@ -61,7 +61,7 @@
                         value: "Assavadevathin" },
                     { text: "Tekturnya tidak masalah, tetapi warna dan desainnya harus bagus", 
                         value: "Davichmetha" },
-                    { text: "Penampilannya tidak masalah, tetapi harus nyaman dan lembut untuk duduk", 
+                    { text: "Penampilannya tidak masalah, tetapi harus empuk dan nyaman untuk duduk", 
                         value: "Meenanagarin" },
                 ]
             },
