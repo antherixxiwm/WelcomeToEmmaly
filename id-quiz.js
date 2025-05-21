@@ -194,22 +194,22 @@
         const emmalyHouses = {
             "Assavadevathin": {
                 name: "Assavadevathin",
-                image: "result/EN Assavadevathin.png",
+                image: "result/ID Assavadevathin.png",
                 color: "golden" //these "colors" are from Gemini's template, but they aren't actually used
             },
             "Bhuchongpisut": {
                 name: "Bhuchongpisut",
-                image: "result/EN Bhuchongpisut.png",
+                image: "result/ID Bhuchongpisut.png",
                 color: "green"
             },
             "Davichmetha": {
                 name: "Davichmetha",
-                image: "result/EN Davichmetha.png",
+                image: "result/ID Davichmetha.png",
                 color: "pink"
             },
             "Meenanagarin": {
                 name: "Meenanagarin",
-                image: "result/EN Meenanagarin.png",
+                image: "result/ID Meenanagarin.png",
                 color: "blue"
             },
         };
