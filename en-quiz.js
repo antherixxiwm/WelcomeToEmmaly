@@ -179,9 +179,9 @@
                 question: "Where do you want to spend your holiday?",
                 image: "question image/11.png",
                 options: [
-                    { text: "On the beach where I can feel the sun and see it rise and set", 
+                    { text: "On the beach where I can smell the sea, touch the sand, and feel the sun", 
                         value: "Meenanagarin" },
-                    { text: "On the mountain where the air is fresh and chill", 
+                    { text: "On the mountain where the ambience is calm and the air is fresh and chill", 
                         value: "Bhuchongpisut" },
                     { text: "In the countryside with all the plantation and farm", 
                         value: "Assavadevathin" },
