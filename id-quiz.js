@@ -178,7 +178,7 @@
                 ]
             },
             {
-                question: "Kamu paling ingin liburan di mana?",
+                question: "Di manakah kamu paling ingin menghabiskan waktu liburan?",
                 image: "question image/11.png",
                 options: [
                     { text: "Di pantai, mau nyium bau laut, main pasir, dan merasakan sinar matahari", 
@@ -197,37 +197,29 @@
             "Assavadevathin": {
                 name: "Assavadevathin",
                 image: "result/ID Assavadevathin.png",
-                color: "golden" //these "colors" are from Gemini's template, but they aren't actually used
             },
             "Bhuchongpisut": {
                 name: "Bhuchongpisut",
                 image: "result/ID Bhuchongpisut.png",
-                color: "green"
             },
             "Davichmetha": {
                 name: "Davichmetha",
                 image: "result/ID Davichmetha.png",
-                color: "pink"
             },
             "Meenanagarin": {
                 name: "Meenanagarin",
                 image: "result/ID Meenanagarin.png",
-                color: "blue"
             },
         };
 
 let currentQuestionIndex = 0;
 let answers = [];
 
-        //const questionContainer = document.getElementById('question-container');
-        //const questionTextElement = document.getElementById('question-text');
-        //const answerOptionsElement = document.getElementById('answer-options');
         const nextButton = document.getElementById('next-button');
         const resultsContainer = document.getElementById('results-container');
         const emmalyHouseResultElement = document.getElementById('emmaly-house-result');
         const resultsImageElement = document.getElementById('result-image');
         const restartButton = document.getElementById('restart-button');
-        //const houseBannerElement = document.getElementById('house-banner');
 
 function displayQuestion() {
     const questionTextElement = document.getElementById('question-text');
@@ -293,8 +285,6 @@ function showResults() {
     };
     emmalyHouseResultElement.textContent = houseData.name;
     resultsImageElement.innerHTML = `<img src="${houseData.image}" alt="${houseData.name}" width="100%">`;
-    //houseBannerElement.className = `house-banner rounded-t-md ${houseData.color}`;
-    //emmalyHouseResultElement.className = houseData.color; 
 }
 
 function nextQuestion() {
