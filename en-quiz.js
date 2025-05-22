@@ -147,9 +147,9 @@
                         value: "Davichmetha" },
                     { text: "Quality time at home, just us both", 
                         value: "Bhuchongpisut" },
-                    { text: "Visit historical sites and learn more about Emmalian culture", 
+                    { text: "Visit historical and cultural sites of Emmaly", 
                         value: "Meenanagarin" },
-                    { text: "Horseback riding and have a romantic outdoor picnic", 
+                    { text: "Horseback riding and have an outdoor picnic", 
                         value: "Assavadevathin" },
                 ]
             },
