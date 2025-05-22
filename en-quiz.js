@@ -197,37 +197,29 @@
             "Assavadevathin": {
                 name: "Assavadevathin",
                 image: "result/EN Assavadevathin.png",
-                color: "golden" //these "colors" are from Gemini's template, but they aren't actually used
             },
             "Bhuchongpisut": {
                 name: "Bhuchongpisut",
                 image: "result/EN Bhuchongpisut.png",
-                color: "green"
             },
             "Davichmetha": {
                 name: "Davichmetha",
                 image: "result/EN Davichmetha.png",
-                color: "pink"
             },
             "Meenanagarin": {
                 name: "Meenanagarin",
                 image: "result/EN Meenanagarin.png",
-                color: "blue"
             },
         };
 
 let currentQuestionIndex = 0;
 let answers = [];
 
-        //const questionContainer = document.getElementById('question-container');
-        //const questionTextElement = document.getElementById('question-text');
-        //const answerOptionsElement = document.getElementById('answer-options');
         const nextButton = document.getElementById('next-button');
         const resultsContainer = document.getElementById('results-container');
         const emmalyHouseResultElement = document.getElementById('emmaly-house-result');
         const resultsImageElement = document.getElementById('result-image');
         const restartButton = document.getElementById('restart-button');
-        //const houseBannerElement = document.getElementById('house-banner');
 
 function displayQuestion() {
     const questionTextElement = document.getElementById('question-text');
@@ -293,8 +285,6 @@ function showResults() {
     };
     emmalyHouseResultElement.textContent = houseData.name;
     resultsImageElement.innerHTML = `<img src="${houseData.image}" alt="${houseData.name}" width="100%">`;
-    //houseBannerElement.className = `house-banner rounded-t-md ${houseData.color}`;
-    //emmalyHouseResultElement.className = houseData.color; 
 }
 
 function nextQuestion() {
