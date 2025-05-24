@@ -4,7 +4,7 @@ https://antherixxiwm.github.io/WelcomeToEmmaly/
 
 Oh to be a drama enjoyer that is served with a good world-buiding. I have never done coding before ... but I learned for The Next Prince. (Because someone HAS to make the Emmaly clans quiz ... and nobody has, so I did.) Since it's my first time, sorry if the quiz ends up looking funny on your screen!
 
-Khan Academy, w3schools, and Google's Gemini are my teachers and saviors. 😭💓
+<a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a>, <a href="https://www.w3schools.com/" target="_blank">w3schools</a>, and <a href="https://gemini.google.com/app" target="_blank">Google's Gemini</a> are my teachers and saviors. 😭💓
 
 ## Credits
 All rights and credits to <a href="https://www.instagram.com/thenextprinceseries/" target="_blank">The Next Prince Series</a>. <br>
