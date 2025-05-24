@@ -250,12 +250,13 @@ document.getElementById('start-button').addEventListener('click', function() {
     displayQuestion();
 });
 
-
 function handleAnswer(answer) {
     answers.push(answer);
     nextButton.disabled = false;
     nextButton.classList.remove('opacity-50');
 }
+
+nextButton.addEventListener('click', nextQuestion);
 
 function calculateEmmalyHouse() {
     let houseCounts = {
@@ -305,7 +306,6 @@ function restartTest() {
     displayQuestion();
 }
 
-nextButton.addEventListener('click', nextQuestion);
 restartButton.addEventListener('click', restartTest);
 
 displayQuestion();
