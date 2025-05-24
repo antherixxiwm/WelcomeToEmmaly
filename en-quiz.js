@@ -140,7 +140,7 @@ const questions = [
         ]
     },
     {
-        question: "What is your ideal date? (Inspired by Phi Den's tweet :3 )",
+        question: "What is your ideal date? (inspired by Khru Den's tweet :3 )",
         image: "question image/9.png",
         options: [
             { text: "Do our favorite sport, maybe compete against each other?", 
