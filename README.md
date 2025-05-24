@@ -14,4 +14,4 @@ Background from <a href="https://unsplash.com/@kiwihug?utm_content=creditCopyTex
 
 ## Disclaimer
 This quiz is made by a fan out of love and admiration for The Next Prince Series, and is not affiliated with the series. <br>
-All information are gathered from The Next Prince Series episodes and social media posts. If there's any addition or revision, changes will be made accordingly. 
+All information are gathered from The Next Prince Series episodes and social media posts. Should there be any addition or revision, changes will be made accordingly. 
