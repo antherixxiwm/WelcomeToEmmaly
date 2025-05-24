@@ -10,7 +10,7 @@ Oh to be a drama enjoyer that is served with a good world-buiding. I have never 
 All rights and credits to <a href="https://www.instagram.com/thenextprinceseries/" target="_blank">The Next Prince Series</a>. <br>
 Quiz by <a href="https://www.youtube.com/@an_theridium" target="_blank">An (@an_theridium)</a>. <br>
 Elements mostly from <a href="https://x.com/TheNextPrinceTH">The Next Prince</a>, the rest are drawn by <a href="https://x.com/an_theridium" target="_blank">An (@an_theridium)</a>.<br>
-Background from <a href="https://unsplash.com/@kiwihug?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank">Kiwihug</a> on <a href="https://unsplash.com/photos/white-wall-paint-with-black-line-qv05FvdE26k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank">Unsplash</a>
+Background from <a href="https://unsplash.com/@kiwihug?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank">Kiwihug</a> on <a href="https://unsplash.com/photos/white-wall-paint-with-black-line-qv05FvdE26k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank">Unsplash</a>.
 
 ## Inspiration
 Inspired by existing fun personality tests, such as <a href="https://katrinaorevillo.com/cozycabincafe/" target="_blank">Cozy Cabin Cafe</a>, <a href="https://valenvibes.github.io/SeasonsOfLove/" target="_blank">Seasons of Love</a>, <a href="https://iseej.github.io/CosmosPersona/" target="_blank">Cosmos Persona</a>, <a href="https://iseej.github.io/LovePawsona/" target="_blank">Love Pawsona</a>, and <a href="https://niyuart.github.io/FruitfulPersonas/" target="_blank">Fruitful Personas</a>.
