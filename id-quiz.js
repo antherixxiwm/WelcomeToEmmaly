@@ -121,7 +121,7 @@ const questions = [
                 value: "Meenanagarin" },
             { text: "Menyambungkan ponselku ke speaker terdekat dan menyalakan suara alarm untuk mengusir orang itu", 
                 value: "Davichmetha" },
-            { text: "Pergi ke pasar malam terdekat yang masih ramai dan menunggu hingga keadaan aman", 
+            { text: "Pergi ke pasar malam terdekat yang masih ramai agar aman, lalu menghubungi polisi dan teman untuk menjemputmu", 
                 value: "Davichmetha" },
         ]
     },
@@ -140,7 +140,7 @@ const questions = [
         ]
     },
     {
-        question: "Kencan idealmu seperti apa? (Terinspirasi dari tweet-nya P'Den :3 )",
+        question: "Kencan idealmu seperti apa? (terinspirasi dari tweet-nya P'Den :3 )",
         image: "question image/9.png",
         options: [
             { text: "Melakukan olahraga kesukaan kita, p adu p balap", 
