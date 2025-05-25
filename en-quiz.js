@@ -121,7 +121,7 @@ const questions = [
                 value: "Meenanagarin" },
             { text: "Connect my phone to the nearest speaker and put on alarm sound to chase them off", 
                 value: "Davichmetha" },
-            { text: "Go to the nearest night market where it's still crowded and wait until it's safe", 
+            { text: "Go to the nearest night market where it's still crowded just to be safe, then call the police and a friend to accompany you home", 
                 value: "Davichmetha" },
         ]
     },
@@ -133,14 +133,14 @@ const questions = [
                 value: "Assavadevathin" },
             { text: "Prepare a hot bath and soak in", 
                 value: "Meenanagarin" },
-            { text: "Go for a relaxing massage from my massage chair", 
+            { text: "Go for a relaxing massage", 
                 value: "Davichmetha" },
             { text: "Eat dinner, drink vitamins and supplements", 
                 value: "Bhuchongpisut" },
         ]
     },
     {
-        question: "What is your ideal date? (inspired by Khru Den's tweet :3 )",
+        question: "What is your ideal date? (inspired by Khru Den's tweet :D )",
         image: "question image/9.png",
         options: [
             { text: "Do our favorite sport, maybe compete against each other?", 
