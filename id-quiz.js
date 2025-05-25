@@ -121,7 +121,7 @@ const questions = [
                 value: "Meenanagarin" },
             { text: "Menyambungkan ponselku ke speaker terdekat dan menyalakan suara alarm untuk mengusir orang itu", 
                 value: "Davichmetha" },
-            { text: "Pergi ke pasar malam terdekat yang masih ramai agar aman, lalu menghubungi polisi dan teman untuk menjemputmu", 
+            { text: "Pergi ke pasar malam terdekat yang masih ramai agar aman, lalu menghubungi polisi dan teman untuk menjemputku", 
                 value: "Davichmetha" },
         ]
     },
@@ -133,7 +133,7 @@ const questions = [
                 value: "Assavadevathin" },
             { text: "Siapkan mandi air hangat dan berendam", 
                 value: "Meenanagarin" },
-            { text: "Pijat relaksasi menggunakan kursi pijatku", 
+            { text: "Mampir untuk pijat relaksasi", 
                 value: "Davichmetha" },
             { text: "Makan malam lalu minum vitamin dan suplemen", 
                 value: "Bhuchongpisut" },
