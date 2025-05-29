@@ -250,7 +250,11 @@ document.getElementById('start-button').addEventListener('click', function() { /
 );
 
 function handleAnswer(answer) {
-    answers.push(answer); //add to the answers array
+    if (answers.length === currentQuestionIndex) {
+        answers.push(answer); //add to the answers array
+    } else {
+        answers[currentQuestionIndex] = answer;
+    }
     nextButton.disabled = false; //enables the next button
     nextButton.classList.remove('opacity-50'); //remove its transparency
 }
