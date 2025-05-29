@@ -7,7 +7,7 @@ const questions = [
                 value: "Bhuchongpisut"},
             { text: "Look for a river and follow the flow", 
                 value: "Davichmetha" },
-            { text: "Determine the direction based on the sun, the stars, and the moon", 
+            { text: "Determine the direction based on the sun and the stars", 
                 value: "Meenanagarin" },
             { text: "Examine the plants around me and use moss as a navigation", 
                 value: "Bhuchongpisut" },
