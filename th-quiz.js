@@ -232,7 +232,7 @@ function displayQuestion() {
     currentQuestion.options.forEach(option => {
         const button = document.createElement('button');
         button.innerHTML = `${option.text}`;
-        button.className = "btn barlow-medium answer-options-button";
+        button.className = "btn sarabun-regular answer-options-button";
         button.addEventListener('click', () => handleAnswer(option.value)); //run handleAnswer function when the option is clicked
         answerOptionsElement.appendChild(button); //add the answer options button to 'answer-options' id
         });
