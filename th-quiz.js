@@ -9,14 +9,14 @@ const questions = [
                 value: "Davichmetha" },
             { text: "หาทิศทางจากพระอาทิตย์และดวงดาว", 
                 value: "Meenanagarin" },
-            { text: "สังเกตต้นไม้รอบตัวแล้วใช้ตะไคร่(มอสส์)ช่วยนำทาง", 
+            { text: "สังเกตต้นไม้รอบตัวแล้วใช้ตะไคร่ (มอสส์) ช่วยนำทาง", 
                 value: "Bhuchongpisut" },
             { text: "เดินตามรอยเท้าสัตว์", 
                 value: "Assavadevathin" },    
         ]
     },
     {
-        question: "วันนี้เป็นวันเกิดคุณ คุณอยากได้อะไรเป็นของขวัญ?",
+        question: "วันนี้เป็นวันเกิดของคุณ คุณอยากได้อะไรเป็นของขวัญ?",
         image: "question image/2.png",
         options: [
             { text: "อุปกรณ์ไฮเทคล่าสุด", 
@@ -131,7 +131,7 @@ const questions = [
         options: [
             { text: "ทิ้งตัวลงบนเตียง", 
                 value: "Assavadevathin" },
-            { text: "เตรียมน้ำอุ่นแล้วแช่น้ำให้ผ่อนคลาย", 
+            { text: "แช่น้ำอุ่นเพื่อผ่อนคลาย", 
                 value: "Meenanagarin" },
             { text: "ไปนวดคลายเมื่อย", 
                 value: "Davichmetha" },
@@ -147,9 +147,9 @@ const questions = [
                 value: "Davichmetha" },
             { text: "อยู่บ้านชิลๆใช้เวลาด้วยกันแค่เราสองคน", 
                 value: "Bhuchongpisut" },
-            { text: "ไปเที่ยวเชิงวัฒนธรรม เดินชิวชมเมืองเอมมาลี", 
+            { text: "ไปเที่ยวเชิงวัฒนธรรม เดินเล่นชมเมืองเอมมาลี", 
                 value: "Meenanagarin" },
-            { text: "ขี่ม้าชมวิวแล้วปิกนิกในสวน ", 
+            { text: "ขี่ม้าชมวิวและปิกนิกในสวน", 
                 value: "Assavadevathin" },
         ]
     },
